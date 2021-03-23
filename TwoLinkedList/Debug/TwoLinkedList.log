@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (TwoLinkedList.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  func.cpp
+C:\Users\kosne\source\repos\TwoLinkedList\func.cpp(64,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\kosne\source\repos\TwoLinkedList\func.cpp(212,27): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\kosne\source\repos\TwoLinkedList\func.cpp(1373): warning C4715: SortAll: значение возвращается не при всех путях выполнения
+  TwoLinkedList.vcxproj -> C:\Users\kosne\source\repos\TwoLinkedList\Debug\DoublyLinkedList.exe

@@ -1,0 +1,26 @@
+|————————————————————————————————————————————————————————————————————————————————————————————|
+|                                 Count of products : 19                                     |
+|————————————————————————————————————————————————————————————————————————————————————————————|
+| Name                     | Country          | Fabricator      | Articul    | Cost          |
+|————————————————————————————————————————————————————————————————————————————————————————————|
+| Stephen Hawking          | Senegal          | TechTasy        | Stesete43  | 876343        |
+| Tom Hardy                | Oman             | KodePeak        | Tomoko89   | 948389        |
+| Karl Marx                | Myanmar          | KodeMix         | Kamyko08   | 242408        |
+| Naruto                   | Konoha           | Hokage          | Nakoho65   | 350365        |
+| Tom Hanks                | France           | Kodegood        | Tofrako30  | 900230        |
+| Che Guevara              | Somalia          | Nibannakura     | Dasoni23   | 26123         |
+| Winston Churchill        | Norfolk Island   | Hitachi         | Winohi57   | 823657        |
+| Amaterasu                | Japan            | Fujitsu         | jamatsu14  | 699914        |
+| George Lucas             | Africa           | Analtech        | Gecean96   | 367696        |
+| Dave Matthews            | Guatemala        | kodelegend      | Gheguako05 | 272105        |
+| Steve Carell             | Monaco           | unique          | concept    | 943142        |
+| Katherine Heigl          | Senegal          | fashion         | addition   | 778202        |
+| Daniel Radcliffe         | Guam             | word            | deadly     | 976924        |
+| Kobe Bryant              | Hong Kong        | distributor     | permission | 596899        |
+| Pete Rose                | Niue             | detector        | calm       | 514903        |
+| Abraham                  | Sri Lanka        | pier            | enhance    | 376207        |
+| Miley Cyrus              | Anguilla         | provoke         | research   | 919020        |
+| Amelia Earhart           | Madagascar       | advocate        | instruction| 188263        |
+| Abraham Lincoln          | Uzbekistan       | fossil          | safari     | 79600         |
+| Fidel Castro             | Bahrain          | seasonal        | bench      | 12315         |
+|————————————————————————————————————————————————————————————————————————————————————————————|

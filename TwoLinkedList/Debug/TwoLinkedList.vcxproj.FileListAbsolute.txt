@@ -1,0 +1,2 @@
+C:\Users\kosne\source\repos\TwoLinkedList\Debug\DoublyLinkedList.exe
+C:\Users\kosne\source\repos\TwoLinkedList\Debug\DoublyLinkedList.pdb
